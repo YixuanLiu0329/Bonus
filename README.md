@@ -43,7 +43,7 @@ fileobj:
 ![数据可视化](./img/gnuplot2.png)
 
 
-## Version control with Git,Github(under Windows)
+## 3. Version control with Git,Github(under Windows)
 
 **Step1 配置账户**<br>
 ![配置账户](./img/connectaccount.png)
