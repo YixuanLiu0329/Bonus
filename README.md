@@ -61,4 +61,5 @@ fileobj:
 ![第一次更新](./img/r1.png)
 
 **Step4 再次更新**<br>
-编辑好`README.md`文件，再次对仓库进行更新。
+编辑好`README.md`文件，再次对仓库进行更新。<br>
+![再次更新](.\img\r2.png)
