@@ -54,9 +54,9 @@ fileobj:
 
 **Step3 更新仓库**<br>
 第一次更新，需要登陆Github账户:<br>
-![Github账户登录](./img/githublogin.png)
+![Github账户登录](./img/githublogin.png)<br>
 第一次对仓库进行更新：<br>
-![更新仓库](./img/firstpush.png)
+![更新仓库](./img/firstpush.png)<br>
 更新后的仓库：<br>
 ![第一次更新](./img/r1.png)
 
