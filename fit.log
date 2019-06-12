@@ -1,0 +1,60 @@
+
+
+*******************************************************************************
+Wed Jun 12 21:29:52 2019
+
+
+FIT:    data read from './data/spring_data.csv' using ($2*9.81):1
+        format = x:z
+        #datapoints = 19
+        residuals are weighted equally (unit weight)
+
+function used for fitting: d(x)
+	d(x) = (1/k)*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k            
+   0 6.1493241642e+02   0.00e+00  6.02e+00    1.000000e+00
+   9 5.5999085873e-02  -1.64e-07  6.02e-09    1.780024e+01
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.0559991
+rel. change during last iteration : -1.63674e-12
+
+degrees of freedom    (FIT_NDF)                        : 18
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0557769
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00311106
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 17.8002          +/- 0.6733       (3.783%)
+
+
+*******************************************************************************
+Wed Jun 12 21:31:04 2019
+
+
+FIT:    data read from './data/spring_data.csv' using ($2*9.81):1
+        format = x:z
+        #datapoints = 19
+        residuals are weighted equally (unit weight)
+
+function used for fitting: d(x)
+	d(x) = (1/k)*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k            
+   0 6.1493241642e+02   0.00e+00  6.02e+00    1.000000e+00
+   9 5.5999085873e-02  -1.64e-07  6.02e-09    1.780024e+01
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.0559991
+rel. change during last iteration : -1.63674e-12
+
+degrees of freedom    (FIT_NDF)                        : 18
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0557769
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00311106
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 17.8002          +/- 0.6733       (3.783%)

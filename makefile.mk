@@ -14,3 +14,4 @@ maingsl: fileobj
 
 fileobj:  
 	$(CC) -c -o $(OBJDIR)gslspringdata.o $(SRCDIR)gslspringdata.c
+	
