@@ -62,4 +62,4 @@ fileobj:
 
 **Step4 再次更新**<br>
 编辑好`README.md`文件，再次对仓库进行更新。<br>
-![再次更新](./img/r2.png)
+![再次更新](https://github.com/YixuanLiu0329/Bonus/img/r2.png)
